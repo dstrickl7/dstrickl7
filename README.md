@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danielle
-- 👀 I’m interested in creating accessible websites and apps
-- 🌱 I’m currently learning React, SASS, and relearning Bootstrap
+- 👀 I’m interested in creating beautiful websites and apps that make life just a little easier
+- 🌱 I’m currently polishing my knowledge of JavaScript and PHP
 
 
 <!---
